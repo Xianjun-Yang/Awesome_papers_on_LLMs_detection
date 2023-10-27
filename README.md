@@ -100,6 +100,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 ## White-box
 ### 2023
 +   **Publicly Detectable Watermarking for Language Models** [[pdf]](https://eprint.iacr.org/2023/1661.pdf) 25/10/2023
++   **Unbiased Watermark for Large Language Models** (https://arxiv.org/abs/2310.10669) [[pdf]] 25/18/2023
 +   **A watermark for large language models** [[pdf]](https://arxiv.org/abs/2301.10226)
 +   **Undetectable Watermarks for Language Models** [[pdf]](https://arxiv.org/abs/2306.09194)
 +   **Provable Robust Watermarking for AI-Generated Text** [[pdf]](https://arxiv.org/abs/2306.17439)
