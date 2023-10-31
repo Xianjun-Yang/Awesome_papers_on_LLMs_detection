@@ -1,4 +1,4 @@
-# Awesome_papers_on_LLMs_detection
+# Awesome papers on LLMs detection
 This repo is a curated list of papers about detection of LLMs-generated content. It includes most lastest papers about detection methods, datasets, attack, etc. We will consistently update this repo to include the most recent papers.
 
 <div style="text-align: center">
