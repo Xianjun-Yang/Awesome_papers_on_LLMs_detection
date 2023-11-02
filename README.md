@@ -154,12 +154,10 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 If you find this repo useful, please cite our work.
 ```latex
-@misc{yang2023survey,
-      title={A Survey on Detection of LLMs-Generated Content}, 
-      author={Xianjun Yang and Liangming Pan and Xuandong Zhao and Haifeng Chen and Linda Petzold and William Yang Wang and Wei Cheng},
-      year={2023},
-      eprint={2310.15654},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{yang2023survey,
+  title={A Survey on Detection of LLMs-Generated Content},
+  author={Yang, Xianjun and Pan, Liangming and Zhao, Xuandong and Chen, Haifeng and Petzold, Linda and Wang, William Yang and Cheng, Wei},
+  journal={arXiv preprint arXiv:2310.15654},
+  year={2023}
 }
 ```
