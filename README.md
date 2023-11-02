@@ -145,6 +145,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation** [[pdf]](https://aclanthology.org/2021.findings-emnlp.172/)
 
 # Misc
++   **LLM- Detect AI Generated Text. Kaggle.** [[link]](https://www.kaggle.com/competitions/llm-detect-ai-generated-text?utm_medium=email&utm_source=gamma&utm_campaign=comp-llm-text-2023)
 +   **Can AI-Generated Text be Reliably Detected?** [[pdf]](https://arxiv.org/abs/2303.11156)
 +   **On the Possibilities of AI-Generated Text Detection** [[pdf]](https://arxiv.org/abs/2304.04736)
 +   **GPT detectors are biased against non-native English writers** [[pdf]](https://arxiv.org/abs/2304.02819)
