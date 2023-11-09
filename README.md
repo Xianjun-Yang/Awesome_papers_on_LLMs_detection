@@ -123,6 +123,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack
++   **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models** [[pdf]](https://arxiv.org/abs/2311.04378) 11/8/2023
 +   **Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?** [[pdf]](https://arxiv.org/abs/2304.01002)
 +   **Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense** [[pdf]](https://arxiv.org/abs/2303.13408)
 +   **Red Teaming Language Model Detectors with Language Models** [[pdf]](https://arxiv.org/abs/2305.19713)
