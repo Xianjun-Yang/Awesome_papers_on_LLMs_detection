@@ -100,6 +100,9 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2023
++   **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring** [[pdf]](https://arxiv.org/abs/2311.09668) 16/11/2023
++   **Performance Trade-offs of Watermarking Large Language Models** [[pdf]](https://arxiv.org/abs/2311.09816) 16/11/2023
++   **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy** [[pdf]](https://arxiv.org/abs/2311.09832) 16/11/2023
 +   **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models** [[pdf]](https://arxiv.org/abs/2311.07138) 13/11/2023
 +   **Publicly Detectable Watermarking for Language Models** [[pdf]](https://arxiv.org/abs/2310.18491) 25/10/2023
 +   **Unbiased Watermark for Large Language Models** [[pdf]](https://arxiv.org/abs/2310.10669) 18/10/2023
