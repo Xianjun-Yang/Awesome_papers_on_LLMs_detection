@@ -38,12 +38,13 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 # Training-based
 ## Black-box
 ### 2023
++   **Token Prediction as Implicit Classification to Identify LLM-Generated Text** [[pdf]](https://arxiv.org/abs/2311.08723) Nov. 15, 2023
 +   **AuthentiGPT: Detecting Machine-Generated Text via Black-Box Language Models Denoising** [[pdf]](https://arxiv.org/abs/2311.07700) Nov. 14, 2023
 +   **G3Detector: General GPT-Generated Text Detector** [[pdf]](https://arxiv.org/abs/2305.12680)
 +   **GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content** [[pdf]](https://arxiv.org/abs/2305.07969)
 +   **GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance** [[pdf]](https://arxiv.org/abs/2305.12519)
 ### 2022
-+	**OpenAI Text Classifier** [[link]](https://beta.openai.com/ai-text-classifier)
++   **OpenAI Text Classifier** [[link]](https://beta.openai.com/ai-text-classifier)
 +   **GPTZero** [[link]](https://gptzero.me/)
 +   **CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning** [[pdf]](https://arxiv.org/abs/2212.10341)
 +   **LLMDet: A Large Language Models Detection Tool** [[pdf]](https://arxiv.org/abs/2305.15004)
