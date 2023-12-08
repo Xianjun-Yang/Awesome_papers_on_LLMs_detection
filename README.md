@@ -101,6 +101,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2023
++   **ON THE LEARNABILITY OF WATERMARKS FOR LANGUAGE MODELS** [[pdf]](https://arxiv.org/pdf/2312.04469.pdf) 7/12/2023
 +   **Mark My Words: Analyzing and Evaluating Language Model Watermarks** [[pdf]](https://arxiv.org/abs/2312.00273) 3/12/2023
 +   **I Know You Did Not Write That! A Sampling-Based Watermarking Method for Identifying Machine Generated Text** [[pdf]](https://arxiv.org/abs/2311.18054) 30/11/2023
 +   **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring** [[pdf]](https://arxiv.org/abs/2311.09668) 16/11/2023
