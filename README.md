@@ -38,6 +38,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 # Training-based
 ## Black-box
 ### 2023
++   **FEW-SHOT DETECTION OF MACHINE-GENERATED TEXT USING STYLE REPRESENTATIONS** [[pdf]](https://arxiv.org/pdf/2401.06712.pdf) 01/12, 2024
 +   **Token Prediction as Implicit Classification to Identify LLM-Generated Text** [[pdf]](https://arxiv.org/abs/2311.08723) Nov. 15, 2023
 +   **AuthentiGPT: Detecting Machine-Generated Text via Black-Box Language Models Denoising** [[pdf]](https://arxiv.org/abs/2311.07700) Nov. 14, 2023
 +   **G3Detector: General GPT-Generated Text Detector** [[pdf]](https://arxiv.org/abs/2305.12680)
