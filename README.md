@@ -136,6 +136,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack
++   **Authorship Obfuscation in Multilingual Machine-Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2401.07867.pdf) 01/17/2024
 +   **LANGUAGE MODEL DETECTORS ARE EASILY OPTIMIZED AGAINST** [[pdf]](https://openreview.net/pdf?id=4eJDMjYZZG) 11/28/2023
 +   **A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts** [[pdf]](https://arxiv.org/abs/2311.08374) 11/14/2023
 +   **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models** [[pdf]](https://arxiv.org/abs/2311.04378) 11/8/2023
