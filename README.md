@@ -104,6 +104,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2023
++   **Adaptive Text Watermark for Large Language Models** [[pdf]](https://arxiv.org/pdf/2401.13927.pdf) 26/01/2024
 +   **Optimizing watermarks for large language models** [[pdf]](https://arxiv.org/pdf/2312.17295.pdf) 31/12/2023
 +   **Towards Optimal Statistical Watermarking** [[pdf]](https://arxiv.org/pdf/2312.07930.pdf) 13/12/2023
 +   **ON THE LEARNABILITY OF WATERMARKS FOR LANGUAGE MODELS** [[pdf]](https://arxiv.org/pdf/2312.04469.pdf) 7/12/2023
