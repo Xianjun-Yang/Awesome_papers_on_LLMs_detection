@@ -70,6 +70,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 # Zero-shot
 ## Black-box
 ### 2023
++   **Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling** [[link]](https://arxiv.org/pdf/2402.09199.pdf) 15/02/2024
 +   **Raidar: geneRative AI Detection viA Rewriting** [[link]](https://arxiv.org/abs/2401.12970) 23/01/2024
 +   **SPOTTING LLMS WITH BINOCULARS: ZERO-SHOT DETECTION OF MACHINE-GENERATED TEXT** [[link]](https://arxiv.org/abs/2401.12070)
 +   **Detectgpt: Zero-shot machine-generated text detection using probability curvature** [[pdf]](https://arxiv.org/abs/2301.11305)
