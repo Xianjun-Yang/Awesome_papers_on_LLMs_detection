@@ -38,6 +38,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 # Training-based
 ## Black-box
 ### 2023
++   **Threads of Subtlety: Detecting Machine-Generated Texts Through Discourse Motifs** [[pdf]](https://arxiv.org/pdf/2402.10586.pdf) 02/19/2024
 +   **LLM-Detector: Improving AI-Generated Chinese Text Detection with Open-Source LLM Instruction Tuning** [[pdf]](https://arxiv.org/pdf/2402.01158.pdf) 02/04/2024
 +   **FEW-SHOT DETECTION OF MACHINE-GENERATED TEXT USING STYLE REPRESENTATIONS** [[pdf]](https://arxiv.org/pdf/2401.06712.pdf) 01/12, 2024
 +   **Token Prediction as Implicit Classification to Identify LLM-Generated Text** [[pdf]](https://arxiv.org/abs/2311.08723) Nov. 15, 2023
