@@ -160,6 +160,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 # Datasets
 ### 2023
++   **M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2402.11175.pdf) 02/19/2024
 +   **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection** [[pdf]](https://arxiv.org/abs/2301.07597)
 +   **CHEAT: A Large-scale Dataset for Detecting ChatGPT-writtEn AbsTracts** [[pdf]](https://arxiv.org/abs/2304.12008)
 +   **Ghostbuster: Detecting Text Ghostwritten by Large Language Models** [[pdf]](https://arxiv.org/abs/2305.15047)
