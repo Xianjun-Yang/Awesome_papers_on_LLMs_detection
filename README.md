@@ -108,6 +108,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2023
++   **k-SEMSTAMP : A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text** [[link]](https://arxiv.org/pdf/2402.11399.pdf) 19/02/2024
 +   **Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs** [[link]](https://arxiv.org/abs/2402.05864) 08/02/2024
 +   **Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code** [[link]](https://arxiv.org/abs/2401.16820) 30/01/2024
 +   **Adaptive Text Watermark for Large Language Models** [[pdf]](https://arxiv.org/pdf/2401.13927.pdf) 26/01/2024
