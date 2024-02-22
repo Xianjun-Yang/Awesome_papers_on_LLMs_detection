@@ -148,6 +148,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 # Attack
 +   **Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models** [[pdf]](https://arxiv.org/pdf/2402.14007.pdf) 02/22/2024
++   **Machine-generated Text Localization** [[pdf]](https://arxiv.org/pdf/2402.11744.pdf) 02/19/2024
 +   **Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks** [[pdf]](https://arxiv.org/pdf/2402.11638.pdf) 02/19/2024
 +   **Authorship Obfuscation in Multilingual Machine-Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2401.07867.pdf) 01/17/2024
 +   **LANGUAGE MODEL DETECTORS ARE EASILY OPTIMIZED AGAINST** [[pdf]](https://openreview.net/pdf?id=4eJDMjYZZG) 11/28/2023
