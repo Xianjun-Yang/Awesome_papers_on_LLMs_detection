@@ -109,6 +109,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2023
++   **EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models** [[link]](https://arxiv.org/pdf/2402.17938.pdf) 02/28/2024
 +   **Multi-Bit Distortion-Free Watermarking for Large Language Models** [[link]](https://arxiv.org/pdf/2402.16578.pdf) 02/27/2024
 +   **GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick** [[link]](https://arxiv.org/pdf/2402.12948.pdf) 20/02/2024
 +   **k-SEMSTAMP : A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text** [[link]](https://arxiv.org/pdf/2402.11399.pdf) 19/02/2024
