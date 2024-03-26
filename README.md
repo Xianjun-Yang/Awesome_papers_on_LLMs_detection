@@ -37,6 +37,8 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 # Training-based
 ## Black-box
+### 2024
++   **EAGLE: A Domain Generalization Framework for AI-generated Text Detection** [[pdf]](https://arxiv.org/pdf/2403.15690.pdf) 03/25/2024
 ### 2023
 +   **DETECTING MACHINE-GENERATED TEXTS BY MULTI-POPULATION AWARE OPTIMIZATION FOR MAXIMUM MEAN DISCREPANCY** [[pdf]](https://arxiv.org/pdf/2402.16041.pdf) 02/27/2024
 +   **Threads of Subtlety: Detecting Machine-Generated Texts Through Discourse Motifs** [[pdf]](https://arxiv.org/pdf/2402.10586.pdf) 02/19/2024
