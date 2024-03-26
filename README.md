@@ -153,6 +153,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack
++   **Bypassing LLM Watermarks with Color-Aware Substitutions** [[pdf]](https://arxiv.org/pdf/2403.14719.pdf) 03/19/2024
 +   **Watermark Stealing in Large Language Models** [[pdf]](https://arxiv.org/pdf/2402.19361v1.pdf) 02/29/2024
 +   **Attacking LLM Watermarks by Exploiting Their Strengths** [[pdf]](https://arxiv.org/pdf/2402.16187.pdf) 02/27/2024
 +   **Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models** [[pdf]](https://arxiv.org/pdf/2402.14007.pdf) 02/22/2024
