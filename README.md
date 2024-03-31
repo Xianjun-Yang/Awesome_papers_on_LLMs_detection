@@ -111,6 +111,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2023
++   **WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models** [[pdf]](https://arxiv.org/pdf/2403.19548.pdf) 03/29/2024
 +   **Duwak: Dual Watermarks in Large Language Models** [[pdf]](https://arxiv.org/pdf/2403.13000.pdf) 03/20/2024
 +   **WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off** [[pdf]](https://arxiv.org/pdf/2403.04808.pdf) 03/11/2024
 +   **Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models** [[link]](https://arxiv.org/pdf/2402.18059.pdf) 02/28/2024
