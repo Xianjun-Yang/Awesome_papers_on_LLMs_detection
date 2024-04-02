@@ -28,7 +28,8 @@ This repo is a curated list of papers about detection of LLMs-generated content.
         - [2023](#2023-4)
         - [2022](#2022-1)
 	- [White-box](#white-box-2)
-        - [2023](#2023-5)
+        - [2024](#2024-1)
+   	- [2023](#2023-5)
 - [Attack](#attack)
 - [Datasets](#datasets)
     - [2023](#2023-6)
@@ -110,7 +111,8 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **The hiding virtues of ambiguity: quantifiably resilient watermarking of natural language text through synonym substitutions** [[pdf]](https://dl.acm.org/doi/abs/10.1145/1161366.1161397)
 
 ## White-box
-### 2023
+### 2024
++   **A Statistical Framework of Watermarks for Large Language Models: Pivot, Detection Efficiency and Optimal Rules** [[pdf]](https://arxiv.org/pdf/2404.01245.pdf)  04/01/2024
 +   **WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models** [[pdf]](https://arxiv.org/pdf/2403.19548.pdf) 03/29/2024
 +   **Duwak: Dual Watermarks in Large Language Models** [[pdf]](https://arxiv.org/pdf/2403.13000.pdf) 03/20/2024
 +   **WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off** [[pdf]](https://arxiv.org/pdf/2403.04808.pdf) 03/11/2024
@@ -122,6 +124,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs** [[link]](https://arxiv.org/abs/2402.05864) 08/02/2024
 +   **Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code** [[link]](https://arxiv.org/abs/2401.16820) 30/01/2024
 +   **Adaptive Text Watermark for Large Language Models** [[pdf]](https://arxiv.org/pdf/2401.13927.pdf) 26/01/2024
+### 2023
 +   **Optimizing watermarks for large language models** [[pdf]](https://arxiv.org/pdf/2312.17295.pdf) 31/12/2023
 +   **Towards Optimal Statistical Watermarking** [[pdf]](https://arxiv.org/pdf/2312.07930.pdf) 13/12/2023
 +   **ON THE LEARNABILITY OF WATERMARKS FOR LANGUAGE MODELS** [[pdf]](https://arxiv.org/pdf/2312.04469.pdf) 7/12/2023
