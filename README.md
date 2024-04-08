@@ -112,6 +112,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2024
++   **Watermark-based Detection and Attribution of AI-Generated Content** [[pdf]](https://arxiv.org/pdf/2404.04254.pdf)  04/07/2024
 +   **A Statistical Framework of Watermarks for Large Language Models: Pivot, Detection Efficiency and Optimal Rules** [[pdf]](https://arxiv.org/pdf/2404.01245.pdf)  04/01/2024
 +   **WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models** [[pdf]](https://arxiv.org/pdf/2403.19548.pdf) 03/29/2024
 +   **Duwak: Dual Watermarks in Large Language Models** [[pdf]](https://arxiv.org/pdf/2403.13000.pdf) 03/20/2024
