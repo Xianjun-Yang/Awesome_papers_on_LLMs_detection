@@ -32,6 +32,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
    	- [2023](#2023-5)
 - [Attack](#attack)
 - [Datasets](#datasets)
+    - [2024](#2024-2)
     - [2023](#2023-6)
     - [2022 and before](#2022-and-before)
 - [Misc](#misc)
