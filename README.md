@@ -184,6 +184,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 # Datasets
 ### 2024
++   **Spotting AI’s Touch: Identifying LLM-Paraphrased Spans in Text** [[pdf]](https://arxiv.org/pdf/2405.12689) 05/22/2024
 +   **RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors** [[pdf]](https://arxiv.org/pdf/2405.07940) 05/16/2024
 +   **M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2402.11175.pdf) 02/19/2024
 ### 2023
