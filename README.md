@@ -128,6 +128,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code** [[link]](https://arxiv.org/abs/2401.16820) 30/01/2024
 +   **Adaptive Text Watermark for Large Language Models** [[pdf]](https://arxiv.org/pdf/2401.13927.pdf) 26/01/2024
 ### 2023
++   **WatME: Towards Lossless Watermarking Through Lexical Redundancy** [[pdf]](https://arxiv.org/abs/2311.09832) 16/11/2023
 +   **Optimizing watermarks for large language models** [[pdf]](https://arxiv.org/pdf/2312.17295.pdf) 31/12/2023
 +   **Towards Optimal Statistical Watermarking** [[pdf]](https://arxiv.org/pdf/2312.07930.pdf) 13/12/2023
 +   **ON THE LEARNABILITY OF WATERMARKS FOR LANGUAGE MODELS** [[pdf]](https://arxiv.org/pdf/2312.04469.pdf) 7/12/2023
@@ -136,7 +137,6 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **TOWARDS CODABLE WATERMARKING FOR INJECTING MULTI-BIT INFORMATION TO LLM** [[pdf]](https://arxiv.org/abs/2307.15992) 27/11/2023
 +   **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring** [[pdf]](https://arxiv.org/abs/2311.09668) 16/11/2023
 +   **Performance Trade-offs of Watermarking Large Language Models** [[pdf]](https://arxiv.org/abs/2311.09816) 16/11/2023
-+   **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy** [[pdf]](https://arxiv.org/abs/2311.09832) 16/11/2023
 +   **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models** [[pdf]](https://arxiv.org/abs/2311.07138) 13/11/2023
 +   **Publicly Detectable Watermarking for Language Models** [[pdf]](https://arxiv.org/abs/2310.18491) 25/10/2023
 +   **Unbiased Watermark for Large Language Models** [[pdf]](https://arxiv.org/abs/2310.10669) 18/10/2023
