@@ -163,6 +163,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack
++   **Black-Box Detection of Language Model Watermarks** [[pdf]](https://arxiv.org/abs/2405.20777) 05/28/2024
 +   **Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack** [[pdf]](https://arxiv.org/pdf/2404.01907.pdf) 04/01/2024
 +   **Bypassing LLM Watermarks with Color-Aware Substitutions** [[pdf]](https://arxiv.org/pdf/2403.14719.pdf) 03/19/2024
 +   **Watermark Stealing in Large Language Models** [[pdf]](https://arxiv.org/pdf/2402.19361v1.pdf) 02/29/2024
