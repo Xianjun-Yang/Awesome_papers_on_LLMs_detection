@@ -19,6 +19,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
         - [2019](#2019)
 - [Zero-shot Methods](#zero-shot)
 	- [Black-box](#black-box-1)
+   	- [2024](#2024-3)
         - [2023](#2023-2)
 	- [White-box](#white-box-1)
         - [2023](#2023-3)
