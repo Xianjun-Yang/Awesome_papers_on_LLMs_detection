@@ -13,12 +13,12 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 	- [Black-box](#black-box)
         - [2023](#2023)
         - [2022](#2022)
-		- [2020](#2020)
+	- [2020](#2020)
 	- [White-box](#white-box)
         - [2023](#2023-1)
         - [2019](#2019)
 - [Zero-shot Methods](#zero-shot)
-	- [Black-box](#black-box-2)
+	- [Black-box](#black-box-1)
    	- [2024](#2024-1)
         - [2023](#2023-2)
 	- [White-box](#white-box-1)
@@ -77,7 +77,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 # Zero-shot
 ## Black-box
 ### 2024
-+   **Improving Logits-based Detector without Logits from Black-box LLMs** [[pdf]](https://arxiv.org/abs/2406.05232)
++   **Improving Logits-based Detector without Logits from Black-box LLMs** [[pdf]](https://arxiv.org/abs/2406.05232) 06/11/2024
 ### 2023
 +   **Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling** [[link]](https://arxiv.org/pdf/2402.09199.pdf) 15/02/2024
 +   **Raidar: geneRative AI Detection viA Rewriting** [[link]](https://arxiv.org/abs/2401.12970) 23/01/2024
