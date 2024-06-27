@@ -228,4 +228,18 @@ If you find this repo useful, please cite our work.
   author={Yang, Xianjun and Cheng, Wei and Wu, Yue and Petzold, Linda Ruth and Wang, William Yang and Chen, Haifeng},
   booktitle={The Twelfth International Conference on Learning Representations}
 }
+
+@article{yang2023zero,
+  title={Zero-shot detection of machine-generated codes},
+  author={Yang, Xianjun and Zhang, Kexun and Chen, Haifeng and Petzold, Linda and Wang, William Yang and Cheng, Wei},
+  journal={arXiv preprint arXiv:2310.05103},
+  year={2023}
+}
+
+@article{zeng2024improving,
+  title={Improving Logits-based Detector without Logits from Black-box LLMs},
+  author={Zeng, Cong and Tang, Shengkun and Yang, Xianjun and Chen, Yuanzhou and Sun, Yiyou and Li, Yao and Chen, Haifeng and Cheng, Wei and Xu, Dongkuan and others},
+  journal={arXiv preprint arXiv:2406.05232},
+  year={2024}
+}
 ```
