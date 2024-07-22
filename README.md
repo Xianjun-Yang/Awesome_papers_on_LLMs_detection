@@ -119,7 +119,8 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 ## White-box
 ### 2024
-+  **Waterfall: Framework for Robust and Scalable Text Watermarking** [[pdf]](https://arxiv.org/pdf/2407.04411)  07/08/2024
++   **Less is More: Sparse Watermarking in LLMs with Enhanced Text Quality**   [[pdf]](https://arxiv.org/pdf/2407.13803)  07/21/2024
++   **Waterfall: Framework for Robust and Scalable Text Watermarking** [[pdf]](https://arxiv.org/pdf/2407.04411)  07/08/2024
 +   **A Resilient and Accessible Distribution-Preserving Watermark for Large Language Models** [[pdf]](https://openreview.net/pdf?id=c8qWiNiqRY)  06/27/2024
 +   **CODEIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code** [[pdf]](https://arxiv.org/pdf/2404.15639)  04/25/2024
 +   **Watermark-based Detection and Attribution of AI-Generated Content** [[pdf]](https://arxiv.org/pdf/2404.04254.pdf)  04/07/2024
