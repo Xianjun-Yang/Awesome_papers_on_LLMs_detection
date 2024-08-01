@@ -214,6 +214,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation** [[pdf]](https://aclanthology.org/2021.findings-emnlp.172/)
 
 # Misc 
++   **Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?** [[pdf]](https://arxiv.org/pdf/2407.17417) 07/24/2024
 +   **Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews** [[pdf]](https://arxiv.org/pdf/2403.07183.pdf) 03/13/2024
 +   **A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization** [[pdf]](https://arxiv.org/pdf/2403.01152.pdf) 03/05/2024
 +   **Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated Student Essay Detection** [[pdf]](https://arxiv.org/pdf/2402.00412.pdf) 02/01/2024
