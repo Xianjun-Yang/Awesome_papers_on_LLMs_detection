@@ -172,6 +172,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack 
++   **LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts** [[pdf]](https://arxiv.org/pdf/2409.03291) 09/05/2024
 +   **Watermark Smoothing Attacks against Language Models** [[pdf]](https://arxiv.org/pdf/2407.14206) 07/19/2024
 +   **Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2406.16275) 06/20/2024
 +   **Black-Box Detection of Language Model Watermarks** [[pdf]](https://arxiv.org/abs/2405.20777) 05/28/2024
@@ -197,6 +198,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 # Datasets
 ### 2024
++   **CoAT: Corpus of artificial texts** [[pdf]](https://www.cambridge.org/core/journals/natural-language-processing/article/coat-corpus-of-artificial-texts/7E2CA97E21663CC031FB6BAFE56E0046) 09/07/2024
 +   **Detecting Machine-Generated Texts: Not Just “AI vs Humans” and Explainability is Complicated** [[pdf]](https://arxiv.org/pdf/2406.18259) 06/27/2024
 +   **Spotting AI’s Touch: Identifying LLM-Paraphrased Spans in Text** [[pdf]](https://arxiv.org/pdf/2405.12689) 05/22/2024
 +   **RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors** [[pdf]](https://arxiv.org/pdf/2405.07940) 05/16/2024
