@@ -172,6 +172,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack 
++   **A Transfer Attack to Image Watermarks** [[pdf]](https://arxiv.org/pdf/2403.15365) 09/12/2024
 +   **LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts** [[pdf]](https://arxiv.org/pdf/2409.03291) 09/05/2024
 +   **Watermark Smoothing Attacks against Language Models** [[pdf]](https://arxiv.org/pdf/2407.14206) 07/19/2024
 +   **Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2406.16275) 06/20/2024
