@@ -89,6 +89,8 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 +   **Smaller Language Models are Better Black-box Machine-Generated Text Detectors** [[pdf]](https://arxiv.org/abs/2305.09859)
 +   **Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts** [[pdf]](https://arxiv.org/abs/2306.04723)
 ## White-box
+### 2024
++   **Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness** [[pdf]](https://arxiv.org/pdf/2409.16914) 09/25/2024
 ### 2023
 +   **Does DETECTGPT Fully Utilize Perturbation? Selective Perturbation on Model-Based Contrastive Learning Detector would be Better** [[pdf]](https://arxiv.org/pdf/2402.00263.pdf) 02/03/2024
 +   **DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text** [[pdf]](https://arxiv.org/abs/2305.17359)
