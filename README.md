@@ -176,6 +176,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 
 
 # Attack 
++   **HUMANIZING THE MACHINE: PROXY ATTACKS TO MISLEAD LLM DETECTORS** [[pdf]](https://arxiv.org/pdf/2410.19230) 10/25/2024
 +   **RAFT: Realistic Attacks to Fool Text Detectors** [[pdf]](https://arxiv.org/pdf/2410.03658) 10/04/2024
 +   **AI-generated text boundary detection with RoFT** [[pdf]](https://arxiv.org/pdf/2311.08349) 09/04/2024
 +   **A Transfer Attack to Image Watermarks** [[pdf]](https://arxiv.org/pdf/2403.15365) 09/12/2024
