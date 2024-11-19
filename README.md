@@ -32,6 +32,8 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 	- [White-box](#white-box-2)
         - [2024](#2024-3)
    	- [2023](#2023-5)
+- [Fingerprinting](#fingerprinting)
+- [Code-detection](#code-detection)
 - [Attack](#attack)
 - [Datasets](#datasets)
     - [2024](#2024-4)
@@ -174,6 +176,11 @@ through Intrinsic Features**
 +   **Three Bricks to Consolidate Watermarks for Large Language Models** [[pdf]](https://arxiv.org/abs/2308.00113)
 ### 2022
 +   **My AI safety lecture for UT Effective Altruism** [[Link]](https://scottaaronson.blog/?p=6823)
+
+# Fingerprinting
++ **Instructional Fingerprinting of Large Language Models** [[pdf]](https://arxiv.org/abs/2401.12255)  21/01/2024
++ **TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification** [[pdf]](https://aclanthology.org/2024.findings-acl.683.pdf) 20/02/2024
++ **LLMmap: Fingerprinting For Large Language Models** [[pdf]](https://arxiv.org/abs/2407.15847) 22/07/2024
 
 # Code-detection
 +   **Zero-Shot Detection of Machine-Generated Codes** [[pdf]](https://arxiv.org/abs/2310.05103)
