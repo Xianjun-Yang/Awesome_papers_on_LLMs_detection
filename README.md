@@ -131,6 +131,7 @@ through Intrinsic Features**
 
 ## White-box
 ### 2024
++   **Downstream Trade-offs of a Family of Text Watermarks** [[pdf]](https://aclanthology.org/2024.findings-emnlp.821.pdf)  11/21/2024
 +   **Less is More: Sparse Watermarking in LLMs with Enhanced Text Quality**   [[pdf]](https://arxiv.org/pdf/2407.13803)  07/21/2024
 +   **Waterfall: Framework for Robust and Scalable Text Watermarking** [[pdf]](https://arxiv.org/pdf/2407.04411)  07/08/2024
 +   **A Resilient and Accessible Distribution-Preserving Watermark for Large Language Models** [[pdf]](https://openreview.net/pdf?id=c8qWiNiqRY)  06/27/2024
