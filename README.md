@@ -242,6 +242,7 @@ through Intrinsic Features**
 +   **TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation** [[pdf]](https://aclanthology.org/2021.findings-emnlp.172/)
 
 # Misc 
++   **A Practical Examination of AI-Generated Text Detectors for Large Language Models** [[pdf]](https://arxiv.org/pdf/2412.05139) 12/06/2024
 +   **SoK: Watermarking for AI-Generated Content** [[pdf]](https://arxiv.org/pdf/2411.18479) 11/27/2024
 +   **Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?** [[pdf]](https://arxiv.org/pdf/2407.17417) 07/24/2024
 +   **Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews** [[pdf]](https://arxiv.org/pdf/2403.07183.pdf) 03/13/2024
