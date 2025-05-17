@@ -189,8 +189,7 @@ through Intrinsic Features**
 # Code-detection
 +   **Zero-Shot Detection of Machine-Generated Codes** [[pdf]](https://arxiv.org/abs/2310.05103)
 +   **Who Wrote this Code? Watermarking for Code Generation** [[pdf]](https://arxiv.org/abs/2305.15060)
-
-
++   **Detection of LLM-Generated Java Code Using Discretized Nested Bigrams** [[pdf]](https://arxiv.org/abs/2502.15740) 
 
 # Attack 
 +   **Beemo: Benchmark of Expert-edited Machine-generated Outputs** [[pdf]](https://arxiv.org/pdf/2411.04032) 11/06/2024
