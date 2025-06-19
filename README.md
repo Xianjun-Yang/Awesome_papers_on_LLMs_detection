@@ -44,6 +44,7 @@ This repo is a curated list of papers about detection of LLMs-generated content.
 # Training-based
 ## Black-box
 ### 2024
++   **Detecting AI-Generated Sentences in Human-AI Collaborative Hybrid Texts: Challenges, Strategies, and Insights** [IJCAI 2024][[pdf]](https://www.ijcai.org/proceedings/2024/0835.pdf) 08/03/2024
 +   **LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection** [[pdf]](https://arxiv.org/pdf/2408.04284) 12/21/2024
 +   **DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning** [NeurIPS 2024][[pdf]](https://arxiv.org/abs/2410.20964) 10/28/2024
 +   **Distinguishing LLM-generated from Human-written Code by Contrastive Learning** [[pdf]](https://arxiv.org/pdf/2411.04704) 11/07/2024
