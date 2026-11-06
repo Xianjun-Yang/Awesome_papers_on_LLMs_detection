@@ -193,6 +193,7 @@ through Intrinsic Features**
 +   **Detection of LLM-Generated Java Code Using Discretized Nested Bigrams** [[pdf]](https://arxiv.org/abs/2502.15740) 
 
 # Attack 
++   **Unraveling Interwoven Roles of Large Language Models in Authorship Privacy: Obfuscation, Mimicking, and Verification** [[pdf]](https://arxiv.org/pdf/2505.14195) 05/20/2025
 +   **Beemo: Benchmark of Expert-edited Machine-generated Outputs** [[pdf]](https://arxiv.org/pdf/2411.04032) 11/06/2024
 +   **DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios** [[pdf]](https://arxiv.org/pdf/2410.23746) 10/31/2024
 +   **HUMANIZING THE MACHINE: PROXY ATTACKS TO MISLEAD LLM DETECTORS** [[pdf]](https://arxiv.org/pdf/2410.19230) 10/25/2024
